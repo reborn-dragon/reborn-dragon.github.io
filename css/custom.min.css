@@ -1,0 +1,28 @@
+.img-product-logo {
+    margin: 5px;
+    border-radius: 5px;
+    max-width: 200px
+}
+
+.img-product-logo-bg {
+    margin: 5px;
+    border-radius: 5px;
+    max-width: 300px;
+    width: 100%
+}
+
+.portfolio-image {
+    width: 100%;
+    margin-top: 5px;
+    border-radius: 5px
+}
+
+.portfolio-image-small {
+    margin: 5px;
+    border-radius: 5px;
+    width: 200px
+}
+
+.bottom-margin {
+    margin-bottom: 10px;
+}
